@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <OpenSearchDescription xmlns="http://a9.com/-/spec/opensearch/1.1/">
-  <ShortName>Search Item</ShortName>
-  <Description>Search Item</Description>
+  <ShortName>Item</ShortName>
+  <Description>Item</Description>
   <Url
     type="text/html"
     method="get"
