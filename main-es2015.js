@@ -1359,7 +1359,7 @@ let ItemService = class ItemService {
                 if (a.city !== b.city) {
                     return a.city.localeCompare(b.city);
                 }
-                return a.quality - b.quality;
+                return b.quality - a.quality;
             });
             return prices;
         }));
